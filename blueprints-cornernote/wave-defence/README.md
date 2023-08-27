@@ -1,3 +1,3 @@
 # Wave Defence
 
-Also see [seeds](../../resources/seeds/README.md)
+Also see [seeds](../../resources/seeds/seeds.md)
