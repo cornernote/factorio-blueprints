@@ -5,9 +5,9 @@
 For ~1.2k SPM
 
 
-## Todo
+## Issues
 
-
+- robot mall modules are flipped and dont work
 
 ## Maybe Todo
 
