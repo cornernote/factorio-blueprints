@@ -3,3 +3,5 @@
 ## Resources
 
 - [source (factorio forums)](https://forums.factorio.com/viewtopic.php?t=105816)
+
+![img.png](img.png)
