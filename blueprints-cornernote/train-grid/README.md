@@ -4,11 +4,6 @@
 
 For ~1.2k SPM
 
-
-## Issues
-
-- robot mall modules are flipped and dont work
-
 ## Maybe Todo
 
 supply trains...?

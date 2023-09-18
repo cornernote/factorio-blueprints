@@ -11,11 +11,6 @@
 - train station limit=1
 - fake train stations limit=off
 
-## Issues
-- needs more solar/accumulators/batteries
-- remove from item requests: power armor, portable solar panel, steel furnace, stone furnace, steam engine, boiler
-- remove boiler from made items
-- not making hazard concrete, refined hazard concrete in wrong place
-- not enough space for artillery
-- purple chest maker has no source items
+## Todo
+
 - lights!
