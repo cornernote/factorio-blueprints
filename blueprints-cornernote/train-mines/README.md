@@ -5,17 +5,15 @@ Mines for 1-2 and 2-8 trains.
 ## Features
 
 - Fast dual side loading
-- Even loading using circuits
+- Even loading using stack limit
 - Load indicator
 - Full roboports and radar coverage
 - Extendable stacker
 
 ## Todo
 
-- read train contents (done, need to recopy bp)
 - add control panel
-- add game timer clock
-
+- lights!
 
 ## Screenshots
 
