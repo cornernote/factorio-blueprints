@@ -6,10 +6,8 @@
 
 ## My Changes
 
-- 2-8 trains
-- train stations don't connect to both rails (only some)
-- train station limit=1
-- fake train stations limit=off
+- 2-8 trains with 4-inserter even unloading
+- train station limit=1 and fake train stations limit=off
 - single lane stacker and change chain signals to rail signals 
 - belt-based science
 - control panel to show science production and material demand 
