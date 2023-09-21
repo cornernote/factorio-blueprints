@@ -9,11 +9,12 @@ Mines for 1-2 and 2-8 trains.
 - Load indicator
 - Full roboports and radar coverage
 - Extendable stacker
+- Control Panel
 
-## Todo
+## Control Panel Info
 
-- add control panel
-- lights!
+- 1-2 trains - bitshift 0
+- 2-8 trains - bitshift 8
 
 ## Screenshots
 
@@ -24,3 +25,5 @@ Mines for 1-2 and 2-8 trains.
 ![img.png](img.png)
 
 ![img_3.png](img_3.png)
+
+![img_4.png](img_4.png)

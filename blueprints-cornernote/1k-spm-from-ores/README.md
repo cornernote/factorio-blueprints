@@ -10,7 +10,6 @@
 - train stations don't connect to both rails (only some)
 - train station limit=1
 - fake train stations limit=off
-
-## Todo
-
-- lights!
+- single lane stacker and change chain signals to rail signals 
+- belt-based science
+- control panel to show science production and material demand 
